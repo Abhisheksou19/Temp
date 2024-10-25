@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/smokie/smokie.py",
+    "postStartCommand": "python3 /workspaces/RIDERBHAI00/rider.py",
     "customizations": {
         "vscode": {
             "settings": {
